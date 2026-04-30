@@ -2,7 +2,7 @@
 
 ##Installation
 
-psql -U dein_user -d deine_datenbank -f Wedler-Samuel_10245165_DLBDSPBDM01_D_Finalisierungsphase_SQL.sql
+psql -U dein_user -d deine_datenbank -f Wedler-Samuel_10245165_DLBDSPBDM01_D_Finalisierungsphase_SQL
 
 ##Kontext
 
